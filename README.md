@@ -1,2 +1,2 @@
 # DecoderDisplay
-DEcodificador y Display hecho en Logisim
+Decodificador y Display hecho en Logisim
